@@ -9,7 +9,7 @@
 Shield Insurance is a growing company that wanted to understand its **customer behavior, policy trends, revenue, and settlements** more effectively.  
 This Power BI project provides a **360° business view** across customers, sales modes, and revenue growth. The dashboard enables stakeholders to take **data-driven decisions** with ease.  
 
-🔗 [Dashboard link]( https://app.powerbi.com/view?r=eyJrIjoiZjMyMjAzOGQtNTgzZi00MDM1LTk4NzEtMjI4NjRjMDI1MTc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 )  
+🔗 [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiZjMyMjAzOGQtNTgzZi00MDM1LTk4NzEtMjI4NjRjMDI1MTc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 🔗 [LinkedIn](https://www.linkedin.com/posts/harsh-g-analyst_dataanalytics-powerbi-sql-activity-7362393278043807744-IRXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFdKH6UBGC0WZh2lzlQnD9sGhBV6fKjUQuI)  
 
 ---
